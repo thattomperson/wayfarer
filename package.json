@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"This template does not include a test runner by default.\" && exit 1"
+  },
+  "devDependencies": {
+    "@inertiajs/inertia-svelte": "^0.7.4",
+    "@inertiajs/progress": "^0.2.6",
+    "@snowpack/plugin-postcss": "^1.4.3",
+    "@snowpack/plugin-svelte": "^3.7.0",
+    "autoprefixer": "^10.3.4",
+    "http2-proxy": "^5.0.53",
+    "postcss": "^8.3.6",
+    "snowpack": "^3.8.8",
+    "svelte": "^3.42.5",
+    "tailwindcss": "^2.2.15"
+  }
+}
